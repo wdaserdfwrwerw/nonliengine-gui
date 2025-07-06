@@ -61,3 +61,5 @@ This version does **not** include:
 - Reinforcement learning logic
 - Spiral algorithm engine
 - Automated explanation generation
+
+- ⭐ If you like this project, please give it a star to support development!
